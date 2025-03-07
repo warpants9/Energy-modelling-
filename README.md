@@ -9,7 +9,7 @@ This is important because renewable energy doesn’t always match when we need e
 Open Power System Data. (2020). Data Package Time Series. Version 2020-10-06. Available at https://doi.org/10.25832/time_series/2020-10-06.
 Open Power System Data. (2020). Renewables. Ninja PV and Wind Profiles. Version 2020-09-16. Available at https://data.open-power-system-data.org/ninja_pv_wind_profiles/2020-09-16.
 IRENA. (2024). Renewable power generation costs in 2023, International Renewable Energy Agency, Abu Dhabi
-Viswanathan V, Mongird K, Franks R, Li X, Sprenkle V, Baxter R. 2022 grid energy storage technology cost and performance assessment. Energy. 2022 Aug;2022:1-51![image](https://github.com/user-attachments/
+Viswanathan V, Mongird K, Franks R, Li X, Sprenkle V, Baxter R. 2022 grid energy storage technology cost and performance assessment. Energy. 2022 Aug;2022:1-51!
 
 ## Progress
 ### 7th of March
